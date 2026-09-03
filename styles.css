@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+*{
+padding:0;
+margin:0
+}
+
+main{
+Background-color: #f5f5f5;
+padding:40px;
+}
+
+.auth{
+	text-align:right;
+	font-style:italic;
+}
+
+.testimonnials_container{
+	background-color:white;
+	border:1px solid gray;
+	padding:10px;
+	margin:10px;
+}
